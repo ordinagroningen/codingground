@@ -1,0 +1,1 @@
+{"id":"java","ext":"java","version":"JDK 1.7.0","compile":"javac FreshJuice.java","execute":"java -Xmx128M -Xms16M FreshJuice","preview":"","command":"","file":"/home/cg/src/samples/FreshJuice.java","url":"compile_java_online.php","mode":"java"}
